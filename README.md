@@ -23,6 +23,6 @@ This Repository is a fork of [DWM - Dynamic Window Manager](https://dwm.suckless
 - [Suckless Community](https://suckless.org)
 - [My Portfolio](https://ddenobrega.github.io)
 - [My Github](https://github.com/ddenobrega)
-- [My Email](malito://dcdenobrega@gmail.com)
+- Email: dcdenobrega@gmail.com
 
 
