@@ -11,16 +11,23 @@ static const int systraypinningfailfirst = 1;
 static const int showsystray        = 1;     /* 0 means no systray */
 static const int showbar            = 1;     /* 0 means no bar */
 static const int topbar             = 1;     /* 0 means bottom bar */
-static const char *fonts[]          = { "JetBrainsMono Nerd Font:size=10" };
-static const char dmenufont[]       = "JetBrainsMono Nerd Font:size=10";
+static const char *fonts[]          = { "JetBrainsMono Nerd Font:size=10.5" };
+static const char dmenufont[]       = "JetBrainsMono Nerd Font:size=10.5";
 static const char col_dark[]				= "#0d0d0d";
-static const char col_red[]				= "#bf2424";
+static const char col_red[]				= "#C75646";
 static const char col_light[]       = "#eeeeee";
+
+
+
+
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_light, col_dark, col_dark},
 	[SchemeSel]  = { col_dark, col_red,  col_red},
 };
+
+
+
 
 /* tagging */
 static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
