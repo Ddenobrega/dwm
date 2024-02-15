@@ -10,13 +10,14 @@ This Repository is a fork of [DWM - Dynamic Window Manager](https://dwm.suckless
 - [Useless Gap](https://dwm.suckless.org/patches/uselessgap/dwm-uselessgap-20211119-58414bee958f2.diff)
 - [Systray](https://dwm.suckless.org/patches/systray/dwm-systray-6.3.diff)
 
-### Code Modification
+### Changes
 - Removed Old ColorScheme
 - Added Red On Black Theme
 - Changed Font
 - Modified Floating Window Settings
 - Modified Dmenu Command
 - Added Custom Dmenu Script Support
+- Added a few patches
 
 ## Installing
 - Clone this Repository 
